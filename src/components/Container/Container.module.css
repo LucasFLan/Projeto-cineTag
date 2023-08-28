@@ -1,0 +1,7 @@
+.container section {
+    display: flex;
+    justify-content: space-between;
+    margin: 2rem 20rem;
+    text-align: center;
+    margin-top: 60px;
+}
